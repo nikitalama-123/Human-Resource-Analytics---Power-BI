@@ -30,6 +30,7 @@ Dashboard Design: Used interactive visuals, cards, slicers, and color themes for
 Insights Delivery: Combined all visuals into one dynamic Power BI report for exploration and presentation.
 
 Dashboard Overview
+<img width="975" height="529" alt="Screenshot 2025-11-04 at 6 50 05 PM" src="https://github.com/user-attachments/assets/4578cb53-bc7a-401c-b0c4-b1755910251d" />
 
 
 Project Insights
