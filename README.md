@@ -1,4 +1,4 @@
-# Human-Resource-Analytics---Power-BI
+# Workforce Insights & People Analytics Dashboard ---Power-BI
 Human Resource Analytics Dashboard (Interactive Report using Power BI)
 
 📘Project Objective
