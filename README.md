@@ -12,15 +12,15 @@ Dataset:[hr-data.xlsx](https://github.com/user-attachments/files/23347945/hr-dat
 Tools Used: Power BI, DAX, Excel, Data Modeling
 
 Questions (KPIs)
-Total employees in each job role and department.
-Gender ratio across the organization.
-Average salary and pay gap between male and female employees.
-Age distribution across departments.
-Top 10 highest-paying job roles.
-Relationship between qualification and salary.
-Workforce growth trend over the years.
-Employee filter by starting letter.
-Leave balance and work-life patterns.
+- Total employees in each job role and department?
+- Gender ratio across the organization?
+- Average salary and pay gap between male and female employees?
+- Age distribution across departments?
+- Top 10 highest-paying job roles?
+- Relationship between qualification and salary?
+- Workforce growth trend over the years?
+- Employee filter by starting letter?
+- Leave balance and work-life patterns?
 
 Process
 Data Cleaning: Verified dataset for missing or inconsistent values and standardized job titles, age, and qualification data.
@@ -45,11 +45,12 @@ Leave balance is higher among employees in operational roles.
 
 Final Conclusion
 The HR dashboard provides a comprehensive understanding of the organization’s workforce composition and dynamics.
+
 It enables leadership to:
-Monitor diversity and pay equity.
-Identify top performers and high-earning roles.
-Track workforce growth for future planning.
-Recognize demographic trends influencing hiring and retention.
+-Monitor diversity and pay equity.
+-Identify top performers and high-earning roles.
+-Track workforce growth for future planning.
+-Recognize demographic trends influencing hiring and retention.
 
 Future recommendations:
-Implement targeted recruitment and retention strategies focusing on high-performing departments, and introduce data-driven policies promoting diversity and fair compensation.
+To strengthen workforce planning and employee engagement, the organization should implement targeted recruitment and retention strategies focused on high-performing departments such as Management and Research.Continue promoting gender diversity in senior roles and design recruitment programs that attract experienced professionals aged 30–40 years — the group contributing most to performance.Additionally, establish data-driven HR policies using Power BI insights to ensure fair compensation, diversity, and long-term employee retention across all levels.
