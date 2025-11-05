@@ -46,10 +46,10 @@ Leave balance is higher among employees in operational roles.
 Final Conclusion
 The HR dashboard provides a comprehensive understanding of the organization’s workforce composition and dynamics.
 It enables leadership to:
--Monitor diversity and pay equity.
--Identify top performers and high-earning roles.
--Track workforce growth for future planning.
--Recognize demographic trends influencing hiring and retention.
+- Monitor diversity and pay equity.
+- Identify top performers and high-earning roles.
+- Track workforce growth for future planning.
+- Recognize demographic trends influencing hiring and retention.
 
 Future recommendations:
 To strengthen workforce planning and employee engagement, the organization should implement targeted recruitment and retention strategies focused on high-performing departments such as Management and Research.Continue promoting gender diversity in senior roles and design recruitment programs that attract experienced professionals aged 30–40 years — the group contributing most to performance.Additionally, establish data-driven HR policies using Power BI insights to ensure fair compensation, diversity, and long-term employee retention across all levels.
