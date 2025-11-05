@@ -6,7 +6,7 @@ The goal of this project was to design an interactive HR Analytics Dashboard tha
 The dashboard helps HR managers and business leaders understand the organization’s workforce, monitor key HR metrics, and make informed talent decisions.
 
 Dataset Used
-Dataset:[hr-data.xlsx](https://github.com/user-attachments/files/23347945/hr-data.xlsx)
+: [hr-data.xlsx](https://github.com/user-attachments/files/23347945/hr-data.xlsx)
 
 
 Tools Used: Power BI, DAX, Excel, Data Modeling
@@ -43,8 +43,7 @@ Master’s degree holders earn the highest salaries (~$85K).
 Workforce growth has steadily increased since 2017.
 Leave balance is higher among employees in operational roles.
 
-Final Conclusion
-
+Final Conclusion:
 The HR dashboard provides a comprehensive understanding of the organization’s workforce composition and dynamics.
 It enables leadership to:
 - Monitor diversity and pay equity.
