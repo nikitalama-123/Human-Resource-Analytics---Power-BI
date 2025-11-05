@@ -44,6 +44,7 @@ Workforce growth has steadily increased since 2017.
 Leave balance is higher among employees in operational roles.
 
 Final Conclusion
+
 The HR dashboard provides a comprehensive understanding of the organization’s workforce composition and dynamics.
 It enables leadership to:
 - Monitor diversity and pay equity.
